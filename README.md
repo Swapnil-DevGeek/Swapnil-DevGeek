@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnil Soni</h1>
-![gif](https://github.com/user-attachments/assets/0fc146b7-1738-4ba3-b384-f18cb5ef7977)
+
+![gif](https://github.com/user-attachments/assets/d53dbf95-52c8-40db-a396-17264494e9af)
 
 # 💫 About Me:
 🔭 I’m currently working on Streamline Studio<br>🌱 I’m currently learning Android Development , Rust<br>💬 Ask me about Next JS , MERN
