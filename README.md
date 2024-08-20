@@ -20,6 +20,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Swapnil-DevGeek&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-DevGeek&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+# 📊 Leetcode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/Swapnil_Soni17?ext=heatmap)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
