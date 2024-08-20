@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swapnil Soni</h1>
+<h1 align="center">Hi ![gif2](https://github.com/user-attachments/assets/06741f24-7851-4395-9207-d1c1b37f06c1), I'm Swapnil Soni</h1>
 
 ![gif](https://github.com/user-attachments/assets/d53dbf95-52c8-40db-a396-17264494e9af)
 
