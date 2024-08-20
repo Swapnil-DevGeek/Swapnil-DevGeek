@@ -24,6 +24,8 @@
 # 📊 Leetcode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Swapnil_Soni17?ext=heatmap)
 
+![gif2](https://github.com/user-attachments/assets/eb84d1c0-34ba-49d8-957b-4251231628f5)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
